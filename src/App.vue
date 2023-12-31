@@ -13,7 +13,7 @@ const aparece = true
 // eventos 
 
 function mostrarConsole(){
-    console.log("olá Leném")
+    console.log("oi mundo")
 }
 
 // reatividade
